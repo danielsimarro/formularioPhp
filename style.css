@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+}
+html, body {height: 100%; 
+    margin: 0px; 
+    padding: 0px;}
+
+body{
+    background-color: rgb(86, 155, 201);
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#form{
+    text-align: center;
+    width: 500px;
+    height: 320px;
+    margin: 75px auto;
+    background-color: rgb(105, 160, 233);
+}
+
+#formIn{
+    text-align: center;
+    width: 500px;
+    height: 380px;
+    margin: 75px auto;
+    background-color: rgb(105, 160, 233);
+}
+
+h1{
+    padding-top: 20px;
+}
+
+#contenedor{
+
+    width: 70%;
+    margin: 0 auto;
+    padding: 0px 20px 20px 0px;
+    position: relative;
+
+}
+
+.principal{
+    float: left;
+    clear: left;
+}
+
+input{
+    margin-bottom: 20px;
+    
+}
+
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 25px;
+}
+
+#enviarIn{
+    width: 30%;
+    margin: auto;
+    background: rgb(102, 113, 143);
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+#enviar {
+    width: 30%;
+    margin: auto;
+    background: rgb(102, 113, 143);
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    float: left;
+    clear: left;
+  }
+
