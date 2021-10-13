@@ -1,5 +1,5 @@
 # formularioPhp
-### 1. Pagina principal, donde introducimos todas las credenciales de identificaciÃ³n.
+### 1. Pagina principal, donde introducimos todas las credenciales de identificación.
 
 [Imagen de la pagina principal](ImagenCredenciales.PNG)
 
